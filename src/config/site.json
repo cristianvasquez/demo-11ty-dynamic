@@ -1,0 +1,6 @@
+{
+  "title": "Sample website",
+  "desc": "A demo",
+  "author": "You",
+  "baseurl": "http://localhost:8080"
+}

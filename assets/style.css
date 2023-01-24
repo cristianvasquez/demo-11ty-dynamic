@@ -1,0 +1,13 @@
+:root {
+    --background-color: #fff;
+    --text-color: rgb(0, 0, 0);
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: var(--background-color);
+    color: var(--text-color);
+}

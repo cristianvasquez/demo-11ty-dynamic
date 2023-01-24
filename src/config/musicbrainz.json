@@ -1,0 +1,7 @@
+{
+  "title": "musicbrainz.json contents",
+  "rewrite": {
+    "source": "http://example-source.org",
+    "target": "http://example-target.org"
+  }
+}
